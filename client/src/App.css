@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(12px + 2vmin);
+  text-transform: capitalize;
+}
+
+.App-description {
+  margin: 0 auto;
+  width: 50vw;
+  line-height: 1.5rem;
+}
+
+.user-search {
+  margin: 2rem 2rem 0rem 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
